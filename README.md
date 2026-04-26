@@ -7,6 +7,8 @@ This project demonstrates dynamic UI updates, theme switching, and interactive d
 
 https://jbmsacps-stack.github.io/Weather-UI-Web-App/
 
+![img](Weather App.png)
+
 ## 🚀 Features
 
 - Dynamic weather states (Sunny, Rainy, Cloudy, Stormy)

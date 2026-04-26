@@ -1,74 +1,90 @@
 # 🌦️ Weather UI Web App
 
-A simple and visually styled weather interface built using pure HTML, CSS, and JavaScript.  
-This project demonstrates dynamic UI updates, theme switching, and interactive design without using any external frameworks.
+A minimal and interactive weather interface built using **HTML, CSS, and JavaScript**.
+This project focuses on dynamic UI updates, smooth visual transitions, and clean component-based design without external libraries.
 
 ---
 
-https://jbmsacps-stack.github.io/Weather-UI-Web-App/
+## 🔗 Live Demo
+
+👉 https://jbmsacps-stack.github.io/Weather-UI-Web-App/
+
+---
+
+## 📸 Preview
 
 ![Weather UI](screenshot.png)
 
-## 🚀 Features
+---
 
-- Dynamic weather states (Sunny, Rainy, Cloudy, Stormy)
-- Smooth background and glow transitions
-- Interactive UI updates using JavaScript
-- Hover-based icon animation
-- Clean and centered card layout
-- Responsive typography and spacing
+## ✨ Features
+
+* Dynamic weather states: **Sunny, Rainy, Cloudy, Stormy**
+* Smooth background and glow transitions
+* Interactive UI updates via JavaScript
+* Subtle hover-based icon animation
+* Centered card-based layout
+* Consistent typography and spacing
 
 ---
 
-## 🧠 Concepts Used
+## 🧠 Key Concepts
 
-- DOM Manipulation (`textContent`, `querySelector`)
-- Event Handling (`addEventListener`)
-- State-based UI design using JavaScript arrays
-- CSS Flexbox layout
-- CSS transitions and hover effects
-- Custom theme switching (background, glow, text)
-
----
-
-## 🎨 UI Behavior
-
-Clicking the **"Change Weather"** button updates:
-
-- Temperature
-- Weather icon
-- Condition text
-- Background color
-- Glow effect
-- Text color
-
-Each weather state has its own visual identity.
+* DOM manipulation (`textContent`, `querySelector`)
+* Event handling (`addEventListener`)
+* State-driven UI using structured data
+* CSS Flexbox layout system
+* CSS transitions and hover effects
+* Theming via dynamic style updates
 
 ---
 
-## 🛠️ Technologies Used
+## 🎯 Behavior
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+Clicking the **“Change Weather”** button dynamically updates:
 
+* Temperature
+* Weather icon
+* Condition text
+* Background theme
+* Glow and color scheme
+
+Each state is designed with its own visual identity.
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla)
 
 ---
 
 ## ⚠️ Limitations
 
-- Uses static weather data (no real API)
-- Designed for learning and UI practice
-- Not optimized for production use
+* Uses static data (no real-time weather API)
+* Intended for UI and frontend practice
+* Not optimized for production environments
+
+---
+
+## 🚀 Future Enhancements
+
+* Integrate real-time weather API
+* Add city search functionality
+* Improve responsiveness for different screen sizes
+* Introduce advanced animations and transitions
+* Implement dark/light mode toggle
 
 ---
 
 ## 👤 Author
 
-JB
+**JB**
 
 ---
 
 ## 📌 Note
 
-This project was built as part of frontend practice to improve understanding of layout, styling, and JavaScript-driven UI behavior.
+This project was developed as part of frontend practice to strengthen understanding of layout design, styling techniques, and dynamic UI behavior using JavaScript.

@@ -7,7 +7,7 @@ This project demonstrates dynamic UI updates, theme switching, and interactive d
 
 https://jbmsacps-stack.github.io/Weather-UI-Web-App/
 
-![img](Weather App.png)
+![Weather UI(Weather App.png)
 
 ## 🚀 Features
 
